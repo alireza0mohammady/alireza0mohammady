@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @alireza0mohammady
-- 👀 I’m interested in javascript
+- 
+- 👀 I’m interested in javascript & linux 
+- 
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
+- 📫 How to reach me mr.afg00@gmail.com
 
 <!---
 alireza0mohammady/alireza0mohammady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
